@@ -1,2 +1,2 @@
-# quamundoorg.github.io
+# quamundo.github.io
 quamundo.org organization pages
