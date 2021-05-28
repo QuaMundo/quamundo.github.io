@@ -1,5 +1,4 @@
 theme: jekyll-theme-minimal
-site:
-  title: 'QuaMundo'
-  description: 'A web-based world-building or -investigation app'
-  logo: 'assets/qm_logo.png'
+title: 'QuaMundo'
+description: 'A web-based world-building or -investigation app'
+logo: 'assets/qm_logo.png'
